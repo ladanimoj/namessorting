@@ -1,0 +1,20 @@
+{
+  "name": "namesorting",
+  "version": "1.0.0",
+  "description": "Name sorting api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "name",
+    "sorting"
+  ],
+  "author": "Moj Ladani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonfile": "^6.1.0",
+    "node-fetch": "^3.3.1"
+  }
+}
